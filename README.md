@@ -11,7 +11,7 @@ npm install -g random-str-msg
 # Usage
 
 ```bash
- random-str-msg
+ random-str-msg-andibird
 ```
 
 # Contributing
